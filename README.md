@@ -569,6 +569,29 @@ AI обязан дополнительно спросить:
 
 ---
 
+## Благодарности
+
+**Автор:** cheburanto.
+
+**Помощь в подготовке текста:**
+- Claude (Anthropic) — ревью структуры, поиск несоответствий между разделами.
+- DeepSeek — редактура и структура.
+
+**Опыт основан на открытых проектах:**
+- [Xray-core](https://github.com/XTLS/Xray-core) — прокси-платформа.
+- [free-turn-proxy](https://github.com/samosvalishe/free-turn-proxy) — обфускация WireGuard через TURN (серверная часть).
+- [turn-proxy-android](https://github.com/samosvalishe/turn-proxy-android) — клиент для Android.
+- [nginx](https://nginx.org/) — веб-сервер и TLS-фронтенд.
+- [WireGuard](https://www.wireguard.com/) — VPN-туннель.
+- [certbot](https://certbot.eff.org/) — автоматические TLS-сертификаты (ACME).
+- [DuckDNS](https://www.duckdns.org/) — бесплатный динамический DNS.
+- [UFW](https://launchpad.net/ufw) — файрвол.
+- [fail2ban](https://github.com/fail2ban/fail2ban) — защита от перебора.
+
+Спасибо мейнтейнерам и сообществам этих проектов.
+
+---
+
 ## Лицензия
 
 MIT License
