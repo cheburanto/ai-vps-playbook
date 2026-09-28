@@ -577,10 +577,7 @@ AI обязан дополнительно спросить:
 - DeepSeek — редактура и структура.
 
 **Опыт основан на следующих открытых проектах:**
-- [Xray-core](https://github.com/XTLS/Xray-core) — прокси-платформа.
-- [turn-proxy-android](https://github.com/samosvalishe/turn-proxy-android) и [free-turn-proxy](https://github.com/samosvalishe/free-turn-proxy) — обфускация WireGuard через TURN.
-- [nginx](https://nginx.org/), [WireGuard](https://www.wireguard.com/), [certbot](https://certbot.eff.org/) — инфраструктура.
-- [DuckDNS](https://www.duckdns.org/), [UFW](https://launchpad.net/ufw), [fail2ban](https://github.com/fail2ban/fail2ban) — вспомогательные сервисы.
+
 - [Xray-core](https://github.com/XTLS/Xray-core) — прокси-платформа.
 - [free-turn-proxy](https://github.com/samosvalishe/free-turn-proxy) — серверная часть обфускации WireGuard через TURN.
 - [turn-proxy-android](https://github.com/samosvalishe/turn-proxy-android) — клиент для Android.
